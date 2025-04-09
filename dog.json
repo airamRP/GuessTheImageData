@@ -1,0 +1,12 @@
+[
+  { "imageUrl": "https://raw.githubusercontent.com/airamRP/dog-game-data/main/images/afgano.jpg", "answer": "Afgano" },
+  { "imageUrl": "https://raw.githubusercontent.com/airamRP/dog-game-data/main/images/akita.jpg", "answer": "Akita" },
+  { "imageUrl": "https://raw.githubusercontent.com/airamRP/dog-game-data/main/images/basenji.jpg", "answer": "Basenji" },
+  { "imageUrl": "https://raw.githubusercontent.com/airamRP/dog-game-data/main/images/beagle.jpg", "answer": "Beagle" },
+  { "imageUrl": "https://raw.githubusercontent.com/airamRP/dog-game-data/main/images/boxer.jpg", "answer": "Boxer" },
+  { "imageUrl": "https://raw.githubusercontent.com/airamRP/dog-game-data/main/images/breton.jpg", "answer": "Bretoón" },
+  { "imageUrl": "https://raw.githubusercontent.com/airamRP/dog-game-data/main/images/buhund-noruego.jpg", "answer": "Buhound Noruego" },
+  { "imageUrl": "https://raw.githubusercontent.com/airamRP/dog-game-data/main/images/bull-terrier.jpg", "answer": "Bull Terrier" },
+  { "imageUrl": "https://raw.githubusercontent.com/airamRP/dog-game-data/main/images/bulldog-frances.jpg", "answer": "Bulldog Francés" },
+  { "imageUrl": "https://raw.githubusercontent.com/airamRP/dog-game-data/main/images/bulldog.jpg", "answer": "Bulldog" }
+]
