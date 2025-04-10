@@ -1,12 +1,12 @@
 [
-  { "imageUrl": "https://airamRP.github.io/GuessTheImage/images/dogs/afgano.jpg", "answer": "Afgano" },
-  { "imageUrl": "https://airamRP.github.io/GuessTheImage/images/dogs/akita.jpg", "answer": "Akita" },
-  { "imageUrl": "https://airamRP.github.io/GuessTheImage/images/dogs/basenji.jpg", "answer": "Basenji" },
-  { "imageUrl": "https://airamRP.github.io/GuessTheImage/images/dogs/beagle.jpg", "answer": "Beagle" },
-  { "imageUrl": "https://airamRP.github.io/GuessTheImage/images/dogs/boxer.jpg", "answer": "Boxer" },
-  { "imageUrl": "https://airamRP.github.io/GuessTheImage/images/dogs/breton.jpg", "answer": "Bretoón" },
-  { "imageUrl": "https://airamRP.github.io/GuessTheImage/images/dogs/buhund-noruego.jpg", "answer": "Buhound Noruego" },
-  { "imageUrl": "https://airamRP.github.io/GuessTheImage/images/dogs/bull-terrier.jpg", "answer": "Bull Terrier" },
-  { "imageUrl": "https://airamRP.github.io/GuessTheImage/images/dogs/bulldog-frances.jpg", "answer": "Bulldog Francés" },
-  { "imageUrl": "https://airamRP.github.io/GuessTheImage/images/dogs/bulldog.jpg", "answer": "Bulldog" }
+  { "imageUrl": "https://airamRP.github.io/GuessTheImageData/images/dogs/afgano.jpg", "answer": "Afgano" },
+  { "imageUrl": "https://airamRP.github.io/GuessTheImageData/images/dogs/akita.jpg", "answer": "Akita" },
+  { "imageUrl": "https://airamRP.github.io/GuessTheImageData/images/dogs/basenji.jpg", "answer": "Basenji" },
+  { "imageUrl": "https://airamRP.github.io/GuessTheImageData/images/dogs/beagle.jpg", "answer": "Beagle" },
+  { "imageUrl": "https://airamRP.github.io/GuessTheImageData/images/dogs/boxer.jpg", "answer": "Boxer" },
+  { "imageUrl": "https://airamRP.github.io/GuessTheImageData/images/dogs/breton.jpg", "answer": "Bretoón" },
+  { "imageUrl": "https://airamRP.github.io/GuessTheImageData/images/dogs/buhund-noruego.jpg", "answer": "Buhound Noruego" },
+  { "imageUrl": "https://airamRP.github.io/GuessTheImageData/images/dogs/bull-terrier.jpg", "answer": "Bull Terrier" },
+  { "imageUrl": "https://airamRP.github.io/GuessTheImageData/images/dogs/bulldog-frances.jpg", "answer": "Bulldog Francés" },
+  { "imageUrl": "https://airamRP.github.io/GuessTheImageData/images/dogs/bulldog.jpg", "answer": "Bulldog" }
 ]
